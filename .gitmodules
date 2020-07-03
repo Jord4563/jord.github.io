@@ -1,0 +1,3 @@
+[submodule "CTF-writeups"]
+	path = CTF-writeups
+	url = https://github.com/Jord4563/CTF-writeups
