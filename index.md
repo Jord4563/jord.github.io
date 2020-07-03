@@ -1,4 +1,3 @@
-Hello, world!
 # Hello, world!
 
 How cool is this? I'm using github pages!
