@@ -1,3 +1,3 @@
 # Hello, world!
 
-This is the coolest blog ever.
+Welcome to my glorious webpage!
